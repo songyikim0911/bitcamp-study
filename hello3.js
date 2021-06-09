@@ -1,3 +1,6 @@
-console.log("A개발자 위 편집");
+
+console.log("Hello, B개발자. upside");
+
 console.log("Hello, world!");
-console.log("A 개발자 아래 편집");
+
+console.log("B developer, bottom");
